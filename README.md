@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2IzMTMwbTZ2bXp6NnJjN3pyZzl4YjY0bnhvMnFpdHR4ZTB6eThyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
+</p> 
 
 # Hi, I'm Ramez Hasnaoui 👋
 
